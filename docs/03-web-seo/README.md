@@ -1,10 +1,16 @@
 # 03 — WordPress, sitio web y SEO
 
-**Estado: pendiente de consolidación detallada (próximo pase de esta auditoría).**
+## Contenido
 
-Resumen operativo vigente disponible en:
-- `docs/historico/Clinica_Dover_Sistema_Documental_Vivo_Historico_2026.md`, secciones relacionadas con SEO Urgencias, Pet Center/WooCommerce, y Elementor/WordPress.
-- `docs/11-bitacora/cronologia-maestra.md` — hitos: auditoría SEO 22/07, publicación SEO Urgencias 29/07, redirecciones y limpieza de sitemap 14/08.
-- `docs/11-bitacora/pendientes-actuales.md` — pendientes técnicos abiertos (Google Business Profile, ALT text, LCP móvil, WooCommerce, permisos de backup).
+- [`seo-urgencias.md`](./seo-urgencias.md) — auditoría del 22/07, prioridades ordenadas, publicación real del 29/07, ejecución técnica Fase 0 del 14/08, checklist de estado, brecha de medición crítica.
+- [`calendario-editorial-seo.md`](./calendario-editorial-seo.md) — calendario de 6 meses, roadmap de 90 días por semana, arquitectura de especialidades clínicas con indicadores de seguimiento.
 
-Auditorías originales de mayo 2026 (home, blog, tienda, formulario, sedes, servicios) en `docs/historico/2026-05-kickoff/03-wordpress-sitio-web/` — eran plantillas de auditoría inicial, en su mayoría sin llenar.
+## Pendientes técnicos abiertos (ver también `docs/11-bitacora/pendientes-actuales.md`)
+
+- Unificar/diferenciar las 2 fichas de Google Business Profile (mayor prioridad pendiente).
+- Resolver el bloqueo del editor Elementor en la página Medical Center (post 3092) — pendiente de decisión del cliente.
+- Permisos de escritura en `/wp-content/ai1wm-backups/`.
+- ALT text en imágenes pendientes, LCP móvil, imagen Open Graph.
+- Resolver la brecha de medición: sin UTM por página ni campo de origen en Kommo, no es posible atribuir leads de WhatsApp a la página de entrada.
+
+Auditorías originales de mayo 2026 (plantillas iniciales, en su mayoría sin llenar) en `docs/historico/2026-05-kickoff/03-wordpress-sitio-web/`.

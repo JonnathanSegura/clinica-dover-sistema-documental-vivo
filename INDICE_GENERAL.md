@@ -14,8 +14,8 @@ Actualizado el 15 de agosto de 2026, tras la auditoría y reorganización docume
 | Carpeta | Frente |
 |---|---|
 | `docs/00-gobierno/` | Gobierno del proyecto, rol, decisiones estratégicas, directiva de sedes |
-| `docs/02-marketing-digital/` | Meta Ads, Google Ads, campañas *(pendiente de consolidación detallada)* |
-| `docs/03-web-seo/` | WordPress, Elementor, SEO, WooCommerce/Pet Center *(pendiente de consolidación detallada)* |
+| `docs/02-marketing-digital/` | Meta Ads, Google Ads, campañas — cifras verificadas por periodo |
+| `docs/03-web-seo/` | WordPress, Elementor, SEO — auditoría, ejecución y roadmap *(WooCommerce/Pet Center aún pendiente de detalle)* |
 | `docs/04-crm-leads/` | CRM Kommo, gestión de leads |
 | `docs/05-ia-automatizacion/` | HUBU, agente IA |
 | `docs/06-qvet/` | QVET: firma digital y WhatsApp API |
@@ -39,4 +39,4 @@ Propuesto · Pendiente · Aprobado · En ejecución · Probado · Implementado �
 
 ## 5. Nota sobre bloques "pendientes de consolidación detallada"
 
-Estos bloques (`02`, `03`, `07`, `09`, `12`) tienen README con dirección clara hacia el histórico maestro, pero aún no tienen el detalle línea por línea que sí existe en informes especializados del proyecto (fuera de este repositorio al 15/08/2026). Se marcan explícitamente como pendientes en vez de dejarse vacíos sin explicación, para no repetir el problema original del repositorio (plantillas vacías sin indicar su estado).
+`02` y `03` ya se consolidaron con cifras y auditorías reales en este mismo pase. `07`, `09` y `12` siguen con README apuntando al histórico maestro, pero aún sin el detalle línea por línea. Se marcan explícitamente como pendientes en vez de dejarse vacíos sin explicación, para no repetir el problema original del repositorio (plantillas vacías sin indicar su estado).

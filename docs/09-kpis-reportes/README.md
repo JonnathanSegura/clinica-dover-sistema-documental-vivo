@@ -1,7 +1,14 @@
 # 09 — KPIs y reportes
 
-**Estado: pendiente de consolidación detallada con cifras verificadas (próximo pase de esta auditoría).**
+## Contenido
 
-El marco completo de KPIs por área (marketing, publicidad, comercial, web, SEO, CRM, redes sociales, automatización) está documentado en `docs/historico/Clinica_Dover_Sistema_Documental_Vivo_Historico_2026.md`, sección 24.
+- [`marco-kpis-por-area.md`](./marco-kpis-por-area.md) — indicadores definidos por área (marketing, publicidad, comercial, web, SEO, CRM, redes, automatización).
 
-No se transcriben aquí cifras de informes mensuales específicos para evitar mezclar periodos distintos sin la fuente exacta a la vista en esta sesión. Ver `docs/11-bitacora/cronologia-maestra.md` para los resultados puntuales ya verificados y fechados (ej. 461 conversiones en campaña Urgencias 9–30 junio).
+## Dónde están las cifras reales
+
+Este bloque es el marco de referencia. Las cifras reales, verificadas y fechadas por periodo están en:
+- `docs/02-marketing-digital/` — Google Ads y Meta Ads.
+- `docs/03-web-seo/` — SEO y estado técnico del sitio.
+- `docs/11-bitacora/cronologia-maestra.md` — hitos con resultado puntual.
+
+No se consolidó aquí un reporte mensual único con cifras de todas las áreas a la vez, para evitar mezclar periodos distintos sin la fuente exacta de cada uno.

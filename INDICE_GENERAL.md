@@ -19,11 +19,11 @@ Actualizado el 15 de agosto de 2026, tras la auditoría y reorganización docume
 | `docs/04-crm-leads/` | CRM Kommo, gestión de leads |
 | `docs/05-ia-automatizacion/` | HUBU, agente IA |
 | `docs/06-qvet/` | QVET: firma digital y WhatsApp API |
-| `docs/07-contenido-redes/` | Contenido, redes, identidad visual *(pendiente de consolidación detallada)* |
-| `docs/09-kpis-reportes/` | KPIs y reportes *(pendiente de consolidación detallada)* |
+| `docs/07-contenido-redes/` | Contenido, redes, identidad visual — colores, logo, estándar audiovisual |
+| `docs/09-kpis-reportes/` | KPIs y reportes — marco de indicadores por área |
 | `docs/10-procedimientos/` | SOPs, seguridad documental |
 | `docs/11-bitacora/` | Pendientes, cronología maestra |
-| `docs/12-portafolio/` | Portafolio profesional *(pendiente de consolidación)* |
+| `docs/12-portafolio/` | Portafolio profesional — caso de estudio consolidado |
 | `docs/historico/` | Memoria consolidada + archivo de kickoff (mayo 2026) |
 | `DOCUMENTOS_BASE/` | Documentos editables/PDF base |
 | `PLANTILLAS/` | Formatos reutilizables |
@@ -37,6 +37,6 @@ Cada registro debe explicar: qué se hizo, por qué, qué decisión quedó tomad
 
 Propuesto · Pendiente · Aprobado · En ejecución · Probado · Implementado · Completado · Pausado · Descartado.
 
-## 5. Nota sobre bloques "pendientes de consolidación detallada"
+## 5. Estado de consolidación (actualizado 15/08/2026)
 
-`02` y `03` ya se consolidaron con cifras y auditorías reales en este mismo pase. `07`, `09` y `12` siguen con README apuntando al histórico maestro, pero aún sin el detalle línea por línea. Se marcan explícitamente como pendientes en vez de dejarse vacíos sin explicación, para no repetir el problema original del repositorio (plantillas vacías sin indicar su estado).
+Todos los bloques principales (`00`, `02`, `03`, `04`, `05`, `06`, `07`, `09`, `11`, `12`) están consolidados con contenido real, verificado contra el histórico maestro y/o informes específicos, y sin cifras inventadas. `11-valterra-dover-hubspot` se revisó y se mantuvo archivada en `docs/historico/2026-05-kickoff/` por decisión explícita (no es parte del alcance operativo de Dover). El trabajo pendiente que queda es operativo (ejecutar SEO, resolver bloqueo de Elementor, etc.), no documental — ver `docs/11-bitacora/pendientes-actuales.md`.

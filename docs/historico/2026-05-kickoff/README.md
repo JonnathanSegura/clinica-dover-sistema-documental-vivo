@@ -19,6 +19,10 @@ Estos documentos tienen valor como evidencia de la decisión original y como mat
 | Sedes en campañas | Sin restricción declarada | Desde el 03/08/2026, todo trabajo nuevo referencia únicamente **Sede Santa Bárbara** — ver `docs/00-gobierno/` |
 | Contenido de ejecución (`03` a `10`) | Estructura creada, mayoría de archivos sin llenar ("Pendiente de alimentar") | Ejecución real documentada en el histórico maestro y en informes específicos (SEO, campañas, QVET, etc.) |
 
+## Decisión sobre `11-valterra-dover-hubspot/`
+
+Esta subcarpeta mezclaba a Dover con VALTERRA, un proyecto personal/escuela del autor en el sector ambiental, usados como "proyectos-escuela" cruzados para desarrollar competencias. Revisado el 15/08/2026: no contiene datos sensibles de clientes de VALTERRA, solo reflexiones generales de aprendizaje (CRM, trazabilidad). **Decisión: se mantiene archivada aquí como parte del snapshot histórico de mayo 2026, sin promoverla a la documentación vigente de Dover** (`docs/` fuera de `historico/`), porque VALTERRA no es parte del alcance operativo de este repositorio.
+
 ## Nota de seguridad
 
 Al momento de esta auditoría (15/08/2026) se revisó todo el contenido de este directorio y **no se encontraron datos personales sensibles** (nombres de pacientes, clientes o proveedores, teléfonos o correos personales). Solo aparece el nombre del autor del proyecto en su rol profesional, lo cual es información pública/profesional apropiada para un portafolio.

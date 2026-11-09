@@ -2,10 +2,12 @@
 
 ## Sistema Documental Vivo
 
-### Memoria consolidada del proyecto --- Mayo 2026 a 15 de agosto de 2026
+### Memoria consolidada del proyecto --- Mayo 2026 a 9 de noviembre de 2026
 
 **Documento histórico, operativo y estratégico**\
-**Periodo consolidado:** mayo de 2026 -- 15 de agosto de 2026\
+**Periodo consolidado:** mayo de 2026 -- 9 de noviembre de 2026\
+(secciones 1 a 29 con corte al 15 de agosto; la sección 30 extiende el
+documento hasta el 9 de noviembre)\
 **Proyecto:** CLÍNICA DOVER -- Sistema Documental Vivo\
 **Enfoque:** Marketing Digital, Growth, Desarrollo, Transformación
 Digital, IA, automatización y documentación.
@@ -2266,6 +2268,127 @@ pendiente.
 -   SharePoint.
 -   automatización.
 -   documentación institucional.
+
+------------------------------------------------------------------------
+
+## 30. ACTUALIZACIÓN --- 15 de agosto a 9 de noviembre de 2026
+
+> **Cómo leer esta sección:** las secciones 1 a 29 conservan su corte
+> del 15 de agosto y no se reescribieron, para no mezclar cifras de
+> ventanas distintas. Esta sección resume lo ocurrido después y
+> sustituye lo que ya no está vigente. Las cifras publicitarias
+> detalladas se mantienen en los informes internos y no se publican en
+> este repositorio.
+
+### 30.1 Resumen ejecutivo del periodo
+
+Entre agosto y noviembre el proyecto pasó de **diagnosticar** a
+**medir y automatizar**. Tres cambios definen el periodo:
+
+1.  **Trazabilidad comercial real.** Kommo se retomó como sistema de
+    medición (embudo "Dover - Atención", etiquetas de origen,
+    coexistencia con el WhatsApp del call center) y se construyó un
+    cruce nocturno Call center ↔ Kommo para calcular costo por paciente.
+2.  **Primer agente de IA en producción.** El agente de la Tienda de
+    Mascotas sobre HUBU opera desde el 5 de noviembre en las franjas sin
+    atención humana, con alcance limitado, traspaso con etiquetas y
+    revisión diaria.
+3.  **Medición web.** GA4 pasó de no registrar conversiones a tener
+    eventos clave, etiqueta de "cómo llegar", vínculo con Google Ads y
+    estándar de UTM; esto permitió detectar que Google Ads no recibe como
+    conversión los clics a WhatsApp ni las llamadas, aunque Kommo sí
+    recibe los leads.
+
+### 30.2 Cambios de gobierno que sustituyen lo anterior
+
+| Sección anterior | Qué cambió |
+|---|---|
+| Directiva "solo Sede Santa Bárbara" (3 ago) | Reemplazada el 27/10 por una directiva de **tres sedes** con enfoque propio (Santa Bárbara, Chicó y la sede de la alianza). Neurología y oncología solo se nombran en relación con la sede de la alianza. |
+| Kommo "pausado como sistema principal" | Retomado en octubre como sistema de medición (decisión 9 del registro de decisiones). |
+| Agente de WhatsApp "en construcción" | En producción desde el 5/11 (ver 30.4). |
+| Servicios de baño, peluquería y spa | Dejaron de ofrecerse en las sedes; no deben aparecer en ningún canal público. |
+
+Decisiones nuevas 9 a 19: ver `docs/00-gobierno/decisiones-estrategicas.md`.
+
+### 30.3 CRM y datos
+
+-   16--23 oct: WhatsApp del call center conectado a Kommo en
+    coexistencia, embudo de 5 etapas, etiquetas de origen por canal y
+    campaña, Salesbot silencioso que solo etiqueta y regla de avance
+    automático de "Nuevo" a "En conversación".
+-   23--26 oct: valor de factura de los ganados y cruce nocturno en
+    Google Apps Script (22:00, hora de Bogotá), con modo simulación,
+    registro de auditoría y reglas de seguridad (solo avanza etapas, no
+    pisa datos). Variante en Python. Código sin credenciales en
+    `scripts/`.
+-   29 oct: unificación de embudos; el viejo queda como archivo.
+-   9 nov: el call center pasa a diligenciar directamente en Kommo; queda
+    pendiente cubrir el control de comisiones.
+-   Datasets para IA: 100 conversaciones de Kommo en 25 categorías y 35
+    conversaciones de WhatsApp de la línea de la tienda (12.438
+    mensajes), anonimizados.
+
+### 30.4 Agente de IA de la Tienda de Mascotas
+
+-   Lanzamiento el 5/11; primer corte el 9/11 con lectura completa de 37
+    conversaciones: respondió el 62 % y pasó a una persona el 65 % de las
+    que atendió. Son datos de línea base, no de tendencia.
+-   Reglas vigentes: no confirma existencias ni precios, no agenda
+    citas médicas, una sola regla de urgencias (responde con la dirección
+    de Santa Bárbara, nunca con un teléfono) y traspaso con etiqueta.
+-   Fallas halladas y corregidas: un dato inventado, reglas de urgencias
+    duplicadas y contradictorias, y una urgencia indirecta mal enrutada.
+-   Lección: ninguna regla llega a producción sin prueba previa en
+    borrador (decisión 18).
+-   Detalle: `docs/05-ia-automatizacion/agente-pet-center-produccion.md`.
+
+### 30.5 Marketing digital
+
+-   **Google Ads:** reactivación acotada de Urgencias (26/10), pausa de la
+    campaña vigente y publicación de una campaña nueva con llamadas y
+    WhatsApp (3/11), y Demand Gen de Reconocimiento con videos de marca
+    para aprovechar el crédito promocional antes de su vencimiento (5/11).
+    Hallazgo principal: **medición ciega** de conversiones en Google, a
+    resolver como prioridad.
+-   **Meta Ads:** campaña de Reconocimiento para Santa Bárbara y Chicó
+    (28/10) con línea base, fecha de fin y criterios de decisión fijados
+    de antemano; corrección de ubicaciones y prueba A/B con una campaña
+    de visitas al perfil (3/11).
+-   **Principio aplicado:** declarar antes de gastar qué resultado
+    justifica la inversión y cuándo se detiene.
+-   Detalle: `docs/02-marketing-digital/`.
+
+### 30.6 Sitio web y SEO
+
+-   Limpieza de plugins (sep), auditoría integral de SEO y datos reales
+    de GA4 y Search Console; hub de especialidades y corrección de una
+    canibalización de oncología.
+-   Diagnóstico de peso y velocidad frente a competidores (6/11) con plan
+    por fases: primero medir, luego cambiar.
+-   Regla global de botones (amarillo con letras azules) y verificación
+    obligatoria en escritorio y móvil.
+-   Hallazgo: la demanda de urgencias se captura casi toda por pauta; el
+    SEO no la sustituye.
+-   Detalle: `docs/03-web-seo/sitio-rendimiento-y-rediseno-sep-nov-2026.md`.
+
+### 30.7 Reputación, alianzas y otros frentes
+
+-   Gestión de reseñas de Google con una herramienta de IA y aprobación
+    previa para las negativas.
+-   Canal de comercio electrónico de terceros: se descartó la
+    integración por API y se arrancó por vía manual con una tienda.
+-   Alianza con un tercero para una nueva sede: autonomía de marca de
+    Dover y límites claros de los materiales publicables.
+-   Estándar de UTM por red social y canal (v1.0, pendiente de
+    aprobación).
+
+### 30.8 Pendientes y fuente de verdad
+
+La lista vigente está en `docs/11-bitacora/pendientes-actuales.md` (corte
+9/11/2026), la cronología detallada en
+`docs/11-bitacora/cronologia-maestra.md` y el estado de cada frente en
+su carpeta de `docs/`. La sección 25 de este documento conserva los
+pendientes del 15 de agosto solo como referencia histórica.
 
 ------------------------------------------------------------------------
 

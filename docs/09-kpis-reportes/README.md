@@ -3,6 +3,7 @@
 ## Contenido
 
 - [`marco-kpis-por-area.md`](./marco-kpis-por-area.md) — indicadores definidos por área (marketing, publicidad, comercial, web, SEO, CRM, redes, automatización).
+- [`medicion-ga4-utm.md`](./medicion-ga4-utm.md) — eventos clave de GA4, etiqueta de Tag Manager, vínculo con Google Ads, estándar de UTM y cadena de trazabilidad.
 
 ## Dónde están las cifras reales
 

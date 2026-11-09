@@ -4,6 +4,8 @@
 
 - [`google-ads-urgencias.md`](./google-ads-urgencias.md) — resultados verificados por periodo (9-16 jun, 9-30 jun, 9 jun-10 jul, 9 jun-23 jul), decisión de presupuesto aprobada por Dirección, pendientes de seguimiento.
 - [`meta-ads-pet-center.md`](./meta-ads-pet-center.md) — Pet Center, Rappi, Semana del Perro, decisión de presupuesto, hallazgo de fuga conversación→lead.
+- [`google-ads-sep-nov-2026.md`](./google-ads-sep-nov-2026.md) — decisiones de septiembre a noviembre, campaña de Urgencias v2 y la brecha de medición de conversiones.
+- [`meta-ads-reconocimiento-2026.md`](./meta-ads-reconocimiento-2026.md) — campaña de Reconocimiento (Santa Bárbara y Chicó): diseño, resultados y criterios de decisión.
 
 ## Nota metodológica
 

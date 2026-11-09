@@ -41,6 +41,8 @@ Verificado en producción:
 | 3 | Regla `/nuestras-sedes/` → `/medical-center/` desactivada (no borrada) | `/nuestras-sedes/` ahora carga la página real de sedes en vez de una cadena rota hacia la home |
 | 4 | 13 URLs excluidas del sitemap de Yoast (login, home, gracias, duplicados de formulario, carrito, checkout, mi cuenta, etc.) | `page-sitemap.xml` pasó de 29 a 16 URLs, verificado por dos rutas independientes |
 
+> **Actualización:** el estado posterior al 15/08/2026 (datos reales de Search Console y GA4, rendimiento y rediseño) está en `sitio-rendimiento-y-rediseno-sep-nov-2026.md`. El checklist de abajo es el del corte de agosto.
+
 ## Checklist de ejecución (estado)
 
 - [x] Contenido de ~1.360 palabras publicado con schema FAQPage (nota: por debajo de la meta de ~3.000 palabras)

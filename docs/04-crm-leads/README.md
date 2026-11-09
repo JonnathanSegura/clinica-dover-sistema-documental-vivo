@@ -4,7 +4,8 @@ CRM operativo: **Kommo** (no HubSpot — ver nota de transición abajo).
 
 ## Contenido
 
-- [`kommo-estado-vigente.md`](./kommo-estado-vigente.md) — diagnóstico, decisión de pausarlo como sistema principal, y su rol actual como fuente de dataset para IA.
+- [`kommo-estado-vigente.md`](./kommo-estado-vigente.md) — evolución del rol de Kommo (pausado en agosto, reactivado como sistema de medición en octubre), diseño del embudo y etiquetas, cruce con el call center.
+- Código del cruce nocturno: [`/scripts`](../../scripts/).
 
 ## Nota de transición
 

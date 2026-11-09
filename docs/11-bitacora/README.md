@@ -3,7 +3,7 @@
 ## Contenido
 
 - [`pendientes-actuales.md`](./pendientes-actuales.md) — pendientes vigentes clasificados por prioridad (alta/media/baja).
-- [`cronologia-maestra.md`](./cronologia-maestra.md) — hitos del proyecto desde mayo de 2026.
+- [`cronologia-maestra.md`](./cronologia-maestra.md) — hitos del proyecto desde mayo de 2026 (corte 9/11/2026).
 
 Decisiones estratégicas específicas están en `docs/00-gobierno/decisiones-estrategicas.md`.
 

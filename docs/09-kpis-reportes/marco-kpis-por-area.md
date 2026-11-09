@@ -32,7 +32,7 @@ Alcance, alcance a no seguidores, reproducciones, retención a 3s, tiempo medio 
 
 ## Automatización / IA (HUBU, QVET)
 
-Preguntas resueltas, escalamiento a humano, precisión de respuestas, cobertura de la base de conocimiento, incidencias, recordatorios enviados, confirmaciones/cancelaciones, tiempos de atención.
+Preguntas resueltas, escalamiento a humano, precisión de respuestas, cobertura de la base de conocimiento, incidencias, recordatorios enviados, confirmaciones/cancelaciones, tiempos de atención. Para el agente en producción (desde 11/2026): datos inventados por semana (meta 0), urgencias respondidas con dirección en el primer mensaje (100 %), traspasos con motivo específico (≥ 90 %), preguntas repetidas por conversación (0), primera respuesta humana en horario del equipo (< 30 min).
 
 ## Homologación pendiente
 

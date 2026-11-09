@@ -48,4 +48,4 @@ Reconstrucción de hitos desde el inicio del proyecto. No es transcripción de c
 
 ## Fuente
 
-`docs/historico/Clinica_Dover_Sistema_Documental_Vivo_Historico_2026.md` (hasta el 15/08/2026) y registros de ejecución, informes y revisiones del Sistema Documental Vivo (15/08–09/11/2026).
+`docs/historico/Clinica_Dover_Sistema_Documental_Vivo_Historico_2026.md` (secciones 1–29 hasta el 15/08/2026; sección 30 hasta el 9/11/2026) y registros de ejecución, informes y revisiones del Sistema Documental Vivo (15/08–09/11/2026).

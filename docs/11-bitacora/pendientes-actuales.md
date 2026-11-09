@@ -10,7 +10,7 @@
 - Definir responsable de revisar los escalados de domingos y festivos.
 
 **Medición y pauta**
-- Registrar como conversión en Google Ads los clics a WhatsApp y las llamadas (hoy 227 clics y 0 conversiones en la campaña de Urgencias v2).
+- Registrar como conversión en Google Ads los clics a WhatsApp y las llamadas (hoy la campaña de Urgencias v2 no registra ninguna conversión).
 - Verificar en GA4 el evento de "cómo llegar" y marcarlo como evento clave; revisar datos a 7 días de los eventos clave.
 - Cruzar los leads de la campaña con el call center para contar citas y pacientes; decidir respuesta automática para mensajes no urgentes en fines de semana.
 - Revisión de la campaña de Reconocimiento de Meta el 10/11 con criterios de éxito fijados de antemano.

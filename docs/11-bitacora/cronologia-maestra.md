@@ -36,9 +36,9 @@ Reconstrucción de hitos desde el inicio del proyecto. No es transcripción de c
 | 16–23 oct 2026 | CRM | WhatsApp del call center conectado a Kommo (coexistencia), embudo "Dover - Atención", etiquetas de origen por canal y campaña, migración del embudo viejo | Leads nuevos trazables desde el primer día | Completado |
 | 23–26 oct 2026 | CRM / Datos | Cruce Call center ↔ Kommo: valor de factura en ganados y cruce nocturno en Apps Script | Corrida automática diaria a las 22:00 desde el 26/10 | Implementado |
 | 27 oct 2026 | Gobierno | Directiva de tres sedes (reemplaza la de solo Santa Bárbara); neurología y oncología solo en relación con la sede de la alianza | Ver `docs/00-gobierno/directiva-sedes.md` | Vigente |
-| 28 oct 2026 | Meta Ads | Campaña de Reconocimiento (Santa Bárbara y Chicó) con línea base | Alcance 216.763 en 6 días | En ejecución |
+| 28 oct 2026 | Meta Ads | Campaña de Reconocimiento (Santa Bárbara y Chicó) con línea base | Alcance muy superior al planeado en 6 días | En ejecución |
 | 29 oct 2026 | CRM | Unificación de embudos: "Dover - Atención" como principal, el viejo como archivo | 535 leads activos en el embudo principal | Completado (observación 7 días) |
-| 3 nov 2026 | Google Ads | Pausa de la campaña de Urgencias vigente y publicación de la v2 | 12 leads trazados en 7 días con 0 conversiones registradas en Google (brecha de medición) | En ejecución |
+| 3 nov 2026 | Google Ads | Pausa de la campaña de Urgencias vigente y publicación de la v2 | Leads trazados en Kommo sin conversiones registradas en Google (brecha de medición) | En ejecución |
 | 4 nov 2026 | Alianzas | Canal de comercio electrónico de terceros: se descarta la integración por API y se va por vía manual con una tienda | Arranque con Santa Bárbara | En ejecución |
 | 5 nov 2026 | IA | Lanzamiento del agente de IA de la Tienda de Mascotas en las franjas sin atención humana | Primer informe el 9/11 | En producción |
 | 5 nov 2026 | Medición | Eventos clave en GA4, etiqueta de "cómo llegar" en Tag Manager, vínculo GA4–Google Ads y estándar de UTM | Cadena de trazabilidad definida | Completado (verificar datos) |

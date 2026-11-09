@@ -16,7 +16,7 @@ Este bloque documenta el caso de estudio profesional de Clínica Dover — Siste
 - SEO técnico y de contenido: auditoría, publicación de página de Urgencias, redirecciones y limpieza de sitemap.
 - CRM: auditoría de Kommo, pausa como sistema principal (agosto), reutilización como dataset de IA y **reactivación en octubre como sistema de medición**, con etiquetas de origen por canal y campaña, embudo unificado y **cruce nocturno automatizado con el call center** (código en `scripts/`).
 - IA aplicada: HUBU y QVET (firma digital + WhatsApp API), con gestión explícita del riesgo de conflicto de arquitectura entre ambos, y un **agente de IA en producción en la Tienda de Mascotas desde el 5/11/2026** (ver `caso-agente-ia-en-produccion.md`).
-- Medición: eventos clave de GA4, Tag Manager y estándar de UTM; hallazgo de que Google Ads registra 0 conversiones mientras Kommo recibe leads.
+- Medición: eventos clave de GA4, Tag Manager y estándar de UTM; hallazgo de que Google Ads no registra conversiones mientras Kommo recibe leads.
 - Sitio y SEO: datos reales de Search Console y GA4, diagnóstico de rendimiento frente a competidores y reglas del sitio (ver `docs/03-web-seo/`).
 - Documentación: construcción de un Sistema Documental Vivo versionado en GitHub, con memoria histórica trazable.
 

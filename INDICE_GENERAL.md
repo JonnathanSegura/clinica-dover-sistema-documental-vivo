@@ -5,7 +5,7 @@ Actualizado el 9 de noviembre de 2026 (reorganización documental previa: 15 de 
 ## 1. Punto de partida recomendado
 
 1. `README.md` — mapa maestro del repositorio.
-2. `docs/historico/Clinica_Dover_Sistema_Documental_Vivo_Historico_2026.md` — memoria consolidada completa (corte 15/08/2026).
+2. `docs/historico/Clinica_Dover_Sistema_Documental_Vivo_Historico_2026.md` — memoria consolidada completa (secciones 1–29 al 15/08/2026; sección 30 hasta el 9/11/2026).
 3. `docs/00-gobierno/directiva-sedes.md` — regla vigente desde el 27/10/2026: tres sedes, cada una con su enfoque (reemplaza la de solo Santa Bárbara).
 4. `docs/11-bitacora/pendientes-actuales.md` — qué está pendiente hoy, por prioridad.
 
@@ -25,7 +25,7 @@ Actualizado el 9 de noviembre de 2026 (reorganización documental previa: 15 de 
 | `docs/11-bitacora/` | Pendientes, cronología maestra |
 | `docs/12-portafolio/` | Portafolio profesional — caso de estudio consolidado |
 | `scripts/` | Código del cruce nocturno Call center ↔ Kommo (sin credenciales) |
-| `docs/historico/` | Memoria consolidada (corte 15/08/2026) + archivo de kickoff (mayo 2026) |
+| `docs/historico/` | Memoria consolidada (15/08/2026 + actualización hasta el 9/11/2026) + archivo de kickoff (mayo 2026) |
 | `DOCUMENTOS_BASE/` | Documentos editables/PDF base |
 | `PLANTILLAS/` | Formatos reutilizables |
 | `archive/` | Reservado para contenido futuro que se archive con justificación |

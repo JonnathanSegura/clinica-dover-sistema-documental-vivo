@@ -21,6 +21,18 @@
 | 17 | Lanzar el agente de IA de la Tienda de Mascotas en las franjas sin atención humana | Respuesta fuera de horario, con alcance limitado y traspaso con etiqueta | Agente en producción desde el 05/11 | Aplicada 05/11/2026 |
 | 18 | Nada de reglas del agente en producción sin prueba previa en borrador | Un cambio de reglas tuvo un efecto no previsto el 09/11 | Procedimiento de cambio del agente | Vigente desde 09/11/2026 |
 | 19 | Un solo estándar visual de botones del sitio (amarillo con letras azules, hover invertido) y verificación obligatoria en escritorio y móvil | Coherencia de marca y la mayoría de visitantes entra por celular | Regla CSS global en el sitio | Aplicada 06/11/2026 |
+| 20 | El call center pasa a una sola asesora (lunes a sábado, 7:00 a. m. a 4:00 p. m.) y el bot y el agente de IA cubren 24/7 | Decisión de gerencia; respaldar la franja sin atención humana | Horarios actualizados en Kommo; el resto de canales se barre por tandas | Aplicada 13/11/2026 |
+| 21 | Urgencias: el bot y el agente son el primer filtro, con la dirección de Santa Bárbara; Dover no ofrece médico a domicilio | Coherencia con la directiva de sedes y con lo que realmente se presta | Opción "médico a domicilio" eliminada de los menús | Aplicada 13/11/2026 |
+| 22 | Retirar de menús, agente y campos del CRM a los médicos que pasaron a la sede de la alianza; alinear los servicios de Chicó | La información pública debe coincidir con la operación | Ajustes en sitio, bot, agente y CRM; faltan GBP, Linktree y redes | Aplicada 13/11/2026 |
+| 23 | El clic a WhatsApp del sitio pasa a conversión principal en Google Ads | Urgencias mostraba cero conversiones y la puja no tenía señal | Primer paso del plan de réplica de medición | Aplicada 17/11/2026 |
+| 24 | Demand Gen "Urgencias y Servicios" reemplaza a "Reconocimiento 71 años"; el reconocimiento se pausa | Medir por mensajes etiquetados y no duplicar gasto con el crédito promocional | Una sola campaña Demand Gen activa hasta el 26/11 | Aplicada 17/11/2026 |
+| 25 | Gerencia autoriza créditos de IA adicionales para el piloto del agente de Kommo en redes | El agente sin créditos deja de responder | Pago pendiente de ejecutar | Autorizada 18/11/2026 |
+| 26 | Apagar el bot de menús en Instagram y Facebook y dejar solo al agente de IA | Con el bot activo el agente no respondía preguntas libres | Disparador del bot eliminado; el bot queda de respaldo | Aplicada 20/11/2026 |
+| 27 | Todo texto al cliente dice "nuestra asesora" sin nombre propio; los textos de Meta respetan sus límites de caracteres | Estabilidad del mensaje y evitar cortes en Instagram y Facebook | Ver `docs/10-procedimientos/reglas-textos-bot-y-agente.md` | Vigente desde 20/11/2026 |
+| 28 | Aplazar el piloto del agente de IA en el WhatsApp del call center | Faltan ajustes (repetición, cierre de cita, transferencia silenciosa) | El agente sigue solo en Instagram y Facebook | Aplicada 20/11/2026 |
+| 29 | Pausar la campaña de Meta "Leads Valoración" y lanzar una de seguidores con tope bajo | Costo alto y ninguna cita tras tres días | Se decide por citas agendadas, no por conversaciones | Aplicada 20/11/2026 |
+| 30 | No usar filtros por calificación en reseñas y planificar la salida de la herramienta de reputación antes de fin de diciembre | Google prohíbe el filtrado; el contrato termina | Ver `docs/07-contenido-redes/reputacion-dflow-plan-de-salida.md` | Vigente desde 20/11/2026 |
+| 31 | Canal DiDi por vía manual con la tienda de Santa Bárbara y catálogo propio | No se justifica integrar por API antes de validar demanda | Catálogo con 98,6 % de imágenes | En ejecución (19/11/2026) |
 
 ## Nota sobre nombres
 
@@ -28,4 +40,4 @@ Los nombres del equipo comercial se anonimizan en este repositorio público (ver
 
 ## Fuente
 
-`docs/historico/Clinica_Dover_Sistema_Documental_Vivo_Historico_2026.md`, sección 27 (decisiones 1–8) y registros de ejecución de octubre–noviembre de 2026 (decisiones 9–19).
+`docs/historico/Clinica_Dover_Sistema_Documental_Vivo_Historico_2026.md`, sección 27 (decisiones 1–8) y registros de ejecución de octubre–noviembre de 2026 (decisiones 9–31; las 20 a 31 corresponden al 13–20/11/2026).

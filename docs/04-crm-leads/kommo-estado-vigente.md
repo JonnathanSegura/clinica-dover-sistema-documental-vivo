@@ -38,6 +38,21 @@ La documentación inicial de mayo de 2026 (ver `docs/historico/2026-05-kickoff/0
 - KPIs semanales: leads por día y origen, % con etiqueta (meta 100 %), % Nuevo→En conversación en menos de 1 h, leads en Nuevo con más de 14 días, ganados por origen, CPL por campaña.
 - Reconectar la Tienda de Mascotas a Kommo (entra después del call center; hoy opera con la app suelta).
 
+## Actualización del 10 al 23 de noviembre de 2026
+
+- **13/11 — nuevo horario del call center:** pasa a **una sola asesora, lunes a sábado de 7:00 a. m. a 4:00 p. m.** (antes dos asesoras hasta las 8:00 p. m.). El bot y el agente de IA atienden las 24 horas, los 7 días. El Salesbot "Urgencias sin asesora" queda en horario permanente (desaparece el hueco de 23:30 a 24:00 y la dependencia de cargar festivos a mano).
+- **13/11 — urgencias como primer filtro y sin médico a domicilio:** ante una urgencia, bot y agente envían de inmediato la dirección de Santa Bárbara; si la persona insiste, se aclara el horario de la asesora y se comparte el WhatsApp solo si el mensaje llegó por otro canal. Dover no ofrece médico a domicilio (solo domicilio de productos); se eliminó esa opción del menú.
+- **13/11 — retiro de médicos** que pasaron a la sede de la alianza de menús, fuentes del agente y lista del campo "Especialista"; Chicó ya no tiene lista de médicos en el bot.
+- **13/11 — piloto de bot y agente de IA en Instagram y Facebook** (ver `docs/05-ia-automatizacion/agente-ia-kommo-redes-sociales.md`). Desde el 20/11 queda solo el agente.
+- **17–20/11 — cargas 1 a 10:** reglas de respuesta validadas por el call center, etiquetas (`META-VALORACION`, `G-DEMANDGEN`, traspaso), calendario de festivos 2026–2027, menú de tres botones y bienvenida corta, rama para anuncios y recordatorio a los 10 minutos.
+- **Base de preguntas frecuentes de chats reales:** se leyeron 829 chats del WhatsApp del call center (el universo disponible desde el 20/10 quedó agotado) y se consolidó una lista final de preguntas para mercadeo y call center. Las respuestas validadas se cargan por lotes (primer lote el 19/11). Hallazgo: preguntas de precio de exámenes, profilaxis y esterilización recibían solo saludo; falta un guion de lista de precios validada.
+- **Leads de Urgencias:** al 13/11, 20 leads etiquetados `G-URGENCIAS` desde el 3/11 (100 % con origen trazado) y **ninguno en cita o paciente** porque el call center aún no movía etapas en Kommo; al 17/11 eran 33. Cuatro de cada cinco llegaban fuera del horario de la asesora.
+- **Leads de la campaña de Meta "Valoración":** se estancaron tras el mensaje del bot que pedía datos; prioridad de seguimiento humano.
+
+**Plan y costos:** una licencia del plan Pro; los créditos de IA incluidos se reinician cada mes y no se acumulan. Gerencia autorizó un paquete adicional para el piloto (ver documento del piloto).
+
+**Pendientes nuevos:** definir quién revisa los chats escalados al abrir turno, unificar bots que puedan bloquear al agente y consolidar el diligenciamiento directo del call center.
+
 ## Fuente
 
 Auditoría de Kommo (13/10/2026), informe de funcionamiento (26/10/2026), registros de ejecución del 16 al 29/10 y decisión del 9/11/2026, del Sistema Documental Vivo; para lo anterior, `docs/historico/Clinica_Dover_Sistema_Documental_Vivo_Historico_2026.md`, secciones 2.4 y 7.

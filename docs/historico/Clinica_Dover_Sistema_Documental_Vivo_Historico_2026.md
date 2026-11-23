@@ -2392,6 +2392,79 @@ pendientes del 15 de agosto solo como referencia histórica.
 
 ------------------------------------------------------------------------
 
+## 31. ACTUALIZACIÓN --- 9 al 23 de noviembre de 2026
+
+> **Cómo leer esta sección:** continúa la sección 30 sin reescribirla. Las
+> cifras publicitarias detalladas se mantienen en los informes internos.
+> El detalle por frente está en `docs/`.
+
+### 31.1 Resumen ejecutivo
+
+Las dos semanas se resumen en tres frases: **la atención por chat pasó a
+depender de automatización 24/7** (una sola asesora humana y un agente de
+IA en redes), **la pauta se disciplinó con reglas de corte declaradas de
+antemano** y **la medición de pacientes sigue siendo el cuello de
+botella** (conversiones y leads llegan, pero el cruce con citas y
+pacientes depende de que el call center diligencie en Kommo).
+
+### 31.2 Cambios de gobierno y operación
+
+| Tema | Cambio |
+|---|---|
+| Call center | Una sola asesora, lunes a sábado de 7:00 a. m. a 4:00 p. m. (13/11). Bot y agente cubren 24/7 |
+| Urgencias por chat | Primer filtro automático con la dirección de Santa Bárbara; no hay médico a domicilio |
+| Equipo médico | Los médicos que pasaron a la sede de la alianza se retiran de menús, agente y CRM; Chicó alinea sus servicios |
+| Textos al cliente | "Nuestra asesora" sin nombre propio y límites de caracteres de Meta (20/11) |
+
+Decisiones 20 a 31: `docs/00-gobierno/decisiones-estrategicas.md`.
+
+### 31.3 IA y automatización
+
+-   **Agente de la Tienda de Mascotas:** tendencia mejor en lo grave (sin
+    datos inventados desde el 7/11) y estable en lo básico; persisten
+    fallas de contexto (fecha, dosis al leer fórmulas, reglas por
+    incidente contradictorias). Detalle en
+    `docs/05-ia-automatizacion/agente-pet-center-produccion.md`.
+-   **Agente de IA de Kommo en Instagram y Facebook (piloto desde el
+    13/11):** se descubrió que el bot de menús bloqueaba al agente y se
+    dejó solo el agente (20/11). Hallazgos: límites de Meta, reacciones a
+    historias, transferencia silenciosa y consumo de créditos. Detalle en
+    `docs/05-ia-automatizacion/agente-ia-kommo-redes-sociales.md`.
+-   **Datos para IA:** 829 chats reales del call center leídos y
+    consolidados en una lista final de preguntas; las respuestas
+    validadas se cargan por lotes.
+
+### 31.4 Marketing digital
+
+-   **Google Ads:** Urgencias v2 mejora su eficiencia pero sin medición
+    de pacientes; el clic a WhatsApp pasa a conversión principal (17/11);
+    Demand Gen "Urgencias y Servicios" reemplaza a "Reconocimiento"; el
+    video con "70 años" fue visto decenas de miles de veces.
+-   **Meta Ads:** campaña de leads "Valoración" pausada tras tres días
+    sin citas; campaña de seguidores lanzada con tope bajo y regla de
+    corte.
+-   **Evaluación técnica:** devolver ventas a Google Ads exige la Data
+    Manager API y capturar el identificador de clic en WhatsApp.
+-   Detalle: `docs/02-marketing-digital/pauta-noviembre-2026-seguimiento.md`
+    y `docs/09-kpis-reportes/conversiones-offline-google-ads-evaluacion.md`.
+
+### 31.5 Sitio web, reputación y alianzas
+
+-   Sitio: Chicó alineado con sus servicios reales, banner de Plan de
+    Salud, identidad en buscadores y detalle de marca animado (20/11).
+-   Reputación: manual de la herramienta de reseñas, exportación y plan
+    de salida antes de fin de diciembre
+    (`docs/07-contenido-redes/reputacion-dflow-plan-de-salida.md`).
+-   Canal DiDi: catálogo de 782 productos con 98,6 % de imágenes
+    (`docs/02-marketing-digital/canal-didi-comercio-electronico.md`).
+
+### 31.6 Pendientes y fuente de verdad
+
+La lista vigente está en `docs/11-bitacora/pendientes-actuales.md` (corte
+23/11/2026) y la cronología en `docs/11-bitacora/cronologia-maestra.md`.
+
+------------------------------------------------------------------------
+
 ## Nota final de integridad documental
 
 Este documento diferencia deliberadamente entre **propuesta, decisión,

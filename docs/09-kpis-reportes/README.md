@@ -3,6 +3,7 @@
 ## Contenido
 
 - [`marco-kpis-por-area.md`](./marco-kpis-por-area.md) — indicadores definidos por área (marketing, publicidad, comercial, web, SEO, CRM, redes, automatización).
+- [`conversiones-offline-google-ads-evaluacion.md`](./conversiones-offline-google-ads-evaluacion.md) — evaluación del 10/11 para devolver ventas de Kommo a Google Ads (Data Manager API).
 - [`medicion-ga4-utm.md`](./medicion-ga4-utm.md) — eventos clave de GA4, etiqueta de Tag Manager, vínculo con Google Ads, estándar de UTM y cadena de trazabilidad.
 
 ## Dónde están las cifras reales

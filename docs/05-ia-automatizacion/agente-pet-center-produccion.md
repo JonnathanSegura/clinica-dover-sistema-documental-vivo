@@ -95,6 +95,33 @@ Por eso el agente no debe prometer respuesta inmediata en la franja sin atenció
 - Pendiente del proveedor: causa del dato inventado, y si el agente recibe fecha y hora del mensaje (necesario para domingos y festivos).
 - Segunda lectura de conversaciones reales programada para el 16/11/2026.
 
+## Seguimiento del 9 al 18 de noviembre
+
+Revisiones del 13/11 (9 al 13/11) y del 18/11 (13 al 18/11), más un diagnóstico de evolución del 18/11. Volúmenes bajos: sirven para ver tendencia, no para concluir calidad fina.
+
+| Indicador | 5–9 nov | 9–13 nov | 13–18 nov |
+|---|---|---|---|
+| Conversaciones nuevas | 37 | 49 | 25 (incluye festivo) |
+| Con respuesta del agente | 62 % | 61 % | 76 % |
+| Pasadas al equipo | 15 | 15 | 14 |
+| Datos inventados | 1 | 0 | 0 |
+| Dosis dada por el agente | 0 | 0 confirmadas | 1 (al leer una fórmula en imagen) |
+| Primera respuesta humana en horario (mediana) | — | ≈ 16 min | 17 min |
+
+**Veredicto del 18/11:** mejor en lo grave (ya no inventa datos, maneja bien medicamentos, citas y traspasos) y estable en lo básico; sigue fallando en lo que depende de contexto.
+
+Hallazgos nuevos:
+- **Regla de urgencias actualizada el 9/11:** el mensaje de urgencias ahora puede incluir el teléfono del call center además de la dirección de Santa Bárbara ("si lo prefieres"), lo que sustituye la regla del 6/11 de "sin teléfono". Riesgo: de noche y en festivos esa línea no tiene atención humana; por eso la dirección va primero.
+- **Citas en Chicó y en la sede de la alianza:** el agente repetía el número del call center aunque el cliente decía que no agendaba en esa sede. Se publicó una regla para la sede de la alianza el 18/11; las reglas de Chicó, de esa sede y del call center deben unificarse en una sola.
+- **El agente no sabe qué día es:** la regla de un festivo no se activó. Se pidió al proveedor confirmar si recibe fecha y hora; si no, se retira la regla y el festivo se trata manualmente. En el fin de semana largo del 14 al 16/11 los escalados esperaron entre 17 y 48 horas.
+- **Interviene con el equipo ya atendiendo** y promete horas de llegada: se pidió respetar la "regla de oro" de no intervenir.
+- **Responde a proveedores:** la lista de números excluidos sigue vacía.
+- **Preguntas repetidas** (tamaño, retiro o domicilio, magistral o producto de tienda) en menos casos.
+- **Saludo automático con horario viejo** en la app de WhatsApp Business: sigue pendiente (origen distinto al agente).
+- **Entrenamiento del proveedor:** el documento del agente acumula "reglas por incidente" con contradicciones (por ejemplo, 24/7 frente a un festivo sin atención); el entrenador tarda y dos veces probó la frase equivocada. Recomendación: batería de 20 frases de prueba antes de cada publicación y unificar reglas.
+
+Metas de la siguiente revisión: 0 datos inventados, 0 dosis, citas bien orientadas al 100 %, primera respuesta humana en horario por debajo de 30 minutos.
+
 ## Fuente
 
 Informe de funcionamiento del agente (9/11/2026) e informe de ejecución de ajustes (9/11/2026), del Sistema Documental Vivo.

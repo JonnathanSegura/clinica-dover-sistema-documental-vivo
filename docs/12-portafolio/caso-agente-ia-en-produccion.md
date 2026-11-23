@@ -58,6 +58,16 @@ Alrededor del agente, otra automatización que sí es código propio: el **cruce
 - Medir antes de automatizar: sin trazabilidad lead → cita → venta no hay forma de saber si la automatización ayudó.
 - La automatización no arregla un proceso humano roto; lo hace visible. Aquí lo visible fue la cobertura de domingos.
 
+## 8. Extensión (noviembre de 2026): un segundo agente en redes sociales
+
+Con la misma metodología se llevó un segundo agente de IA (en el CRM) a Instagram y Facebook, sin persona asignada. Tres lecciones nuevas:
+
+- **Un agente no sirve si otra automatización lo bloquea.** El bot de menús impedía que el agente respondiera preguntas libres; se midió, se probó con y sin bot y se decidió dejar solo al agente.
+- **Los canales tienen límites que el diseño debe respetar.** El texto de los botones se cortaba; se auditaron 136 mensajes y se rediseñó la estructura (información primero, pregunta corta con botones después).
+- **Los costos por respuesta se vigilan desde el día uno.** Cada respuesta consume créditos; se fijaron KPIs de créditos por conversación y de mensajes sin respuesta (meta cero).
+
+Detalle: `docs/05-ia-automatizacion/agente-ia-kommo-redes-sociales.md`.
+
 ## Fuente
 
 Informes de funcionamiento y de ajustes del agente (9/11/2026), dataset de la línea Pet Center (2/10/2026) y registros del cruce nocturno (23–26/10/2026), del Sistema Documental Vivo.

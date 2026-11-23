@@ -61,6 +61,10 @@ Carrusel Urgencias 24/7 Santa Bárbara, contenido institucional (ej. Cena Día d
 
 Canva Pro y CapCut Pro (activas). Propuesta pendiente: Runway para video con IA (uso puntual, no plenamente confirmado como herramienta estándar).
 
+## Regla de años de trayectoria (nov 2026)
+
+El sello debe decir **71 años**. El 13/11 se detectó que un video de marca de la campaña de reconocimiento decía "70 años" y recibió la mayor parte de las impresiones; se debe reexportar con "71 años" antes de reutilizarlo. Revisar el sello en toda pieza nueva.
+
 ## Fuente
 
 `docs/historico/Clinica_Dover_Sistema_Documental_Vivo_Historico_2026.md`, secciones 14-15, y `MANUAL_CORPORATIVO_Vr__2.pdf`.

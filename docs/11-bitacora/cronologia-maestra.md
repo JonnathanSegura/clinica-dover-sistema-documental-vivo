@@ -1,6 +1,6 @@
 # Cronología maestra
 
-_Corte: 9 de noviembre de 2026._
+_Corte: 23 de noviembre de 2026._
 
 Reconstrucción de hitos desde el inicio del proyecto. No es transcripción de chats — es registro de fecha, área, actividad/decisión y resultado.
 
@@ -45,7 +45,24 @@ Reconstrucción de hitos desde el inicio del proyecto. No es transcripción de c
 | 5 nov 2026 | Google Ads | Demand Gen de Reconocimiento con videos de marca; Laboratorio pausada | Uso del crédito promocional antes del 27/11 | En ejecución |
 | 6 nov 2026 | Web | Regla global de botones, diagnóstico de peso y velocidad frente a competidores, línea base y precalentamiento de caché | Plan de optimización por fases | En ejecución |
 | 9 nov 2026 | IA / CRM | Informe de funcionamiento y ajustes del agente; el call center pasa a diligenciar directamente en Kommo | Ver `docs/05-ia-automatizacion/` y `docs/04-crm-leads/` | En ejecución |
+| 10 nov 2026 | Medición | Evaluación de herramientas para devolver ventas de Kommo a Google Ads (conversiones offline) | Hallazgo: la API anterior está bloqueada para este fin desde el 15/06; la base correcta es la Data Manager API (ver `docs/09-kpis-reportes/`) | Evaluado |
+| 10 nov 2026 | Gerencia | Informe de septiembre y octubre con datos verificados para el comité comercial del 13/11 | Fuente única por cifra; presentación visual publicada | Completado |
+| 10–12 nov 2026 | Contenido | Guiones de voz en off para videos institucionales; favicon e imagen social; gestión de reseñas, comentarios y mensajes del último mes | Piezas y respuestas documentadas | Completado |
+| 13 nov 2026 | CRM / IA | Call center a una sola asesora (7:00 a. m.–4:00 p. m.); urgencias como primer filtro automático; piloto de bot y agente de IA en Instagram y Facebook | Ver `docs/05-ia-automatizacion/agente-ia-kommo-redes-sociales.md` | En ejecución |
+| 13 nov 2026 | Gobierno / Web | Retiro de médicos de la sede de la alianza de menús y CRM; servicios de Chicó alineados en el sitio | Información pública alineada con la operación | Completado (faltan otros canales) |
+| 13 nov 2026 | Google Ads | Revisión del día 10 de Urgencias v2 y de Demand Gen Reconocimiento | Eficiencia mejora; sin medición de pacientes; error "70 años" en video | Revisión completada |
+| 13–17 nov 2026 | CRM / IA | Lectura de 829 chats del call center y lista final de preguntas para mercadeo y call center | Base para cargar respuestas validadas al bot y al agente | Completado |
+| 17 nov 2026 | Google Ads | WhatsApp pasa a conversión principal; se publica Demand Gen "Urgencias y Servicios" y se pausa Reconocimiento | Señal de conversión y una sola campaña Demand Gen | Aplicado |
+| 17 nov 2026 | Meta Ads | Campaña de leads "Valoración" (Instagram) y campaña de interacción con caso clínico; se pausa Reconocimiento | Oferta de entrada medida por etiqueta en Kommo | Aplicado |
+| 18 nov 2026 | IA | Diagnóstico de evolución del agente de la Tienda de Mascotas; incidente de respuesta en inglés del agente de redes (cerrado) | Mejora en lo grave, fallas de contexto | Diagnóstico completado |
+| 18 nov 2026 | Reputación | Auditoría semanal de la herramienta de reseñas y autorización de créditos de IA para el piloto | Pendiente aprobar borradores y pagar créditos | En ejecución |
+| 19 nov 2026 | Alianzas | Catálogo de DiDi con 782 productos y 771 imágenes | Listo para enviar a la plataforma | En ejecución |
+| 20 nov 2026 | CRM / IA | Bienvenida con tres botones, límites de caracteres de Meta, regla de la asesora sin nombre; se apaga el bot de menús y queda solo el agente; se aplaza el piloto en el WhatsApp del call center | Ver `docs/10-procedimientos/reglas-textos-bot-y-agente.md` | Aplicado |
+| 20 nov 2026 | Meta Ads | Pausa de la campaña de leads "Valoración" y publicación de la de seguidores | Revisión el 23/11 | En ejecución |
+| 20 nov 2026 | Reputación | Manual de la herramienta de reseñas, exportación de datos y plan de salida | Ver `docs/07-contenido-redes/reputacion-dflow-plan-de-salida.md` | En ejecución |
+| 20 nov 2026 | Web | El perro del logo camina hacia el buscador al cargar la página | Detalle de marca sin impacto en carga | Completado (verificar en teléfonos reales) |
+| 23 nov 2026 | IA | Primera revisión semanal del agente de IA en Instagram y Facebook | Funciona en lo básico; fallas de repetición y cierre de cita | Revisión completada |
 
 ## Fuente
 
-`docs/historico/Clinica_Dover_Sistema_Documental_Vivo_Historico_2026.md` (secciones 1–29 hasta el 15/08/2026; sección 30 hasta el 9/11/2026) y registros de ejecución, informes y revisiones del Sistema Documental Vivo (15/08–09/11/2026).
+`docs/historico/Clinica_Dover_Sistema_Documental_Vivo_Historico_2026.md` (secciones 1–29 hasta el 15/08/2026; sección 30 hasta el 9/11/2026 y sección 31 hasta el 23/11/2026) y registros de ejecución, informes y revisiones del Sistema Documental Vivo (15/08–23/11/2026).

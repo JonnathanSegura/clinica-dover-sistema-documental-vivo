@@ -24,6 +24,13 @@ Todo trabajo nuevo (documentos, campañas, contenido, flujos de CRM, bots, propu
 5. **Marketing de la sede de la alianza:** lo ejecuta el área de marketing de Bivett; Dover mantiene la autonomía de su marca y no ata sus presupuestos de 2026–2027 a esa sede.
 6. **Nombre oficial de la nueva sede:** "Dover | Bivett de la 116" (no usar nombres anteriores).
 
+## Ajustes operativos del 13/11/2026
+
+- **Chicó:** el sitio lista como servicios consulta general, vacunación, medicina preventiva, medicina interna, nutrición, ortopedia, odontología y certificados de viaje; cirugía, profilaxis dental y diagnóstico por imagen se atienden en Santa Bárbara. Chicó no ofrece urgencias ni hospitalización.
+- **Equipo médico:** los médicos que pasaron a la sede de la alianza se retiran de los menús del bot, del agente y de los campos del CRM; solo permanecen los de Santa Bárbara.
+- **Atención por chat:** el call center atiende con una sola asesora de lunes a sábado de 7:00 a. m. a 4:00 p. m.; fuera de ese horario atienden bot y agente de IA. No hay médico a domicilio.
+- **Citas en la sede de la alianza y en Chicó:** se agendan por canales distintos al WhatsApp del call center; el agente de la Tienda de Mascotas ya tiene una regla para la primera y falta unificar la de Chicó.
+
 ## Por qué existe esta directiva
 
 Se documenta aquí para que cualquier colaborador o asistente de IA que use este repositorio como base de conocimiento entienda de inmediato el alcance vigente, sin inferirlo de fuentes dispersas. La limpieza de referencias antiguas en el sitio y las redes se hace por tandas, con verificación en escritorio y móvil.

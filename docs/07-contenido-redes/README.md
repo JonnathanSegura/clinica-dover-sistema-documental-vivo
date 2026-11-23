@@ -2,6 +2,7 @@
 
 ## Contenido
 
+- [`reputacion-dflow-plan-de-salida.md`](./reputacion-dflow-plan-de-salida.md) — reputación digital: qué hace la herramienta de reseñas, límites, plan de réplica y plan de salida antes de fin de diciembre.
 - [`identidad-visual.md`](./identidad-visual.md) — colores oficiales, logo (incluida tipografía confirmada), estándar audiovisual, criterios fotográficos, regla de contenido 70-20-10, piezas documentadas.
 
 ## Pendiente de un próximo pase

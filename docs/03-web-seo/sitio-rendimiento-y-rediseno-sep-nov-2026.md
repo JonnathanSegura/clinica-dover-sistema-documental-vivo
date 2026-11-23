@@ -43,6 +43,15 @@ Hasta agosto las decisiones de SEO se tomaban sin datos de tráfico. En septiemb
 - **Reglas del sitio:** todo cambio se verifica en escritorio y móvil (la mayoría de visitantes entra por celular); se purga la caché tras cada cambio; ortografía revisada en todo el sitio.
 - **Staging:** la copia de pruebas falló en el hosting (28/10); se decidió avanzar con borradores privados en producción y cambios mínimos, con respaldo previo.
 
+### Cambios del 9 al 20 de noviembre
+
+- **Contacto y botones flotantes:** inventario de contacto y de botones de "Nuestras sedes" (9/11); ocultar los botones flotantes en páginas cuyo contenido ya tiene botones propios.
+- **Banner de Plan de Salud** con imagen corregida (9/11); toda imagen nueva respeta el máximo de 5 MB.
+- **Identidad en buscadores:** favicon de 512 px y logo en datos estructurados; imagen social cuadrada con la fachada para miniaturas (12/11).
+- **Sede Chicó (13/11):** el listado de servicios se alinea con la operación real (se retiran cirugía y esterilización, profilaxis dental y diagnóstico por imagen; se agregan nutrición, ortopedia y odontología) y el bloque "Especialidades disponibles" hace lo mismo. Se retira del sitio a una médica que sale de la clínica y se actualiza el perfil de otra que pasa a consulta externa. Riesgo registrado: Santa Bárbara sí presta cirugía, imágenes y profilaxis, y esos servicios dejaron de verse en la página general; se vigilan posiciones y clics durante 2 a 4 semanas y se evalúan páginas propias para nutrición, ortopedia y odontología.
+- **Detalle de marca (20/11):** el perro del logo del encabezado camina al cargar la página (hasta la barra de búsqueda en escritorio y tableta; hacia el borde derecho en móvil). Una vez por visita, respeta la preferencia de "reducir movimiento", se dibuja encima sin mover el diseño y el recurso (≈ 60 KB) solo se descarga al iniciar el paseo. Verificado en escritorio y en simulaciones móviles de 390 y 768 px; falta confirmarlo en teléfonos reales (Android e iPhone) y revisar uso del buscador y PageSpeed móvil a 7 días.
+- **Aprendizaje:** al quitar servicios o médicos de una sede, revisar también Google Business Profile, Linktree, bot y agente de Kommo y redes, que quedan con los mismos datos.
+
 ## 4. Pendientes
 
 Medir línea base sin sesión (PageSpeed y Search Console), ejecutar las fases 1 a 3 del plan de velocidad, ALT en imágenes pendientes, imagen Open Graph, páginas locales por zona, checkpoint de posiciones a 60 y 90 días de la publicación de agosto, y cierre del problema del editor Elementor en la página Medical Center.

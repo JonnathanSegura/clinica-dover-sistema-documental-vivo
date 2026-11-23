@@ -3,9 +3,7 @@
 ## Prioridad alta
 
 **Agente de IA en Instagram y Facebook** (ver `docs/05-ia-automatizacion/agente-ia-kommo-redes-sociales.md`)
-- Corregir la repetición de precios y enlaces y el cierre de la cita (hoy solo reenvía el enlace al WhatsApp).
-- Validar con la asesora productos, vacantes y domicilio, y definir el canal oficial de hojas de vida.
-- Aviso automático cuando el agente transfiere el chat (hoy la transferencia es silenciosa y consume créditos).
+- Probar en chats reales las correcciones de la carga 11 del 23/11 (aviso al transferir, cierre de cita con enlace precargado, respuestas cortas) y vigilar si pierden detalle.
 - Pagar el paquete de créditos autorizado por gerencia y verificar el saldo real; decidir sobre el bot "Urgencias sin asesora" y las dos acciones eliminadas.
 - Decisión legal de gerencia sobre la autorización de datos.
 - Revisión semanal fija (próxima: 27/11) y decisión posterior sobre abrir el WhatsApp del call center.

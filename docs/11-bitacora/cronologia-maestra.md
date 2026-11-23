@@ -61,6 +61,8 @@ Reconstrucción de hitos desde el inicio del proyecto. No es transcripción de c
 | 20 nov 2026 | Meta Ads | Pausa de la campaña de leads "Valoración" y publicación de la de seguidores | Revisión el 23/11 | En ejecución |
 | 20 nov 2026 | Reputación | Manual de la herramienta de reseñas, exportación de datos y plan de salida | Ver `docs/07-contenido-redes/reputacion-dflow-plan-de-salida.md` | En ejecución |
 | 20 nov 2026 | Web | El perro del logo camina hacia el buscador al cargar la página | Detalle de marca sin impacto en carga | Completado (verificar en teléfonos reales) |
+| 23 nov 2026 | IA | Carga 11 al agente de Kommo: aviso al transferir, respuestas cortas, canal de RR. HH. y cierre de cita con enlace precargado | Corrige las fallas de la primera revisión; falta probar en chats reales | Aplicado |
+| 23 nov 2026 | Contenido | Referencia de estilo "revista" y propuesta de la publicación "Casa Segura" (5 peligros de intoxicación) | En ideación; ver `docs/07-contenido-redes/propuesta-publicacion-estilo-revista.md` | Propuesto |
 | 23 nov 2026 | IA | Primera revisión semanal del agente de IA en Instagram y Facebook | Funciona en lo básico; fallas de repetición y cierre de cita | Revisión completada |
 
 ## Fuente

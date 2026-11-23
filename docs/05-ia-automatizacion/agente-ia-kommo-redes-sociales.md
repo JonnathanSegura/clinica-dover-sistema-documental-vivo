@@ -21,6 +21,7 @@ Alcance deliberadamente acotado: solo Kommo; HUBU y la Tienda de Mascotas no se 
 | 20/11 | Carga 10: bienvenida corta con tres botones (urgencia, cita, pregunta); se descubre que el bot bloquea al agente; **se apaga el bot v2 y queda solo el agente** |
 | 20/11 | Hallazgo de transferencia silenciosa al pedir hablar con un médico; el piloto en el WhatsApp del call center se aplaza |
 | 23/11 | Primera revisión semanal con conversaciones reales (20 al 23/11) |
+| 23/11 | Carga 11: correcciones derivadas de la revisión (ver sección siguiente) |
 
 ## Hallazgos técnicos que cambiaron el diseño
 
@@ -44,6 +45,22 @@ Base pequeña: 4 clientes reales por mensaje directo en 3 días; las conclusione
 - **Falla o es mejorable:** repite el mismo precio y enlace varias veces; no cierra la cita (solo reenvía el enlace del WhatsApp); deriva consultas de productos y de vacantes al número de la asesora en lugar del canal correcto; envía un seguimiento a los 15 minutos tras un agradecimiento; afirmó un dato no validado sobre consulta a domicilio; sigue la transferencia silenciosa.
 - **Créditos:** unas 43 respuestas en el periodo, incluidas pruebas, equivalentes a unos 650 créditos (el saldo real se verifica en Kommo).
 
+## Carga 11 (23/11): correcciones tras la primera revisión
+
+| Hallazgo | Cambio |
+|---|---|
+| Repetición de precio, enlace y datos ya dados | Pauta "no repites lo ya dicho" |
+| Productos enviados al número de la asesora | El agente remite a las líneas de cada Tienda de Mascotas (Santa Bárbara y Chicó); probado en vista previa |
+| Vacantes enviadas a la asesora | Se remite al canal de Recursos Humanos de Dover |
+| Gasto de créditos y respuestas largas | Longitud de respuesta "corta" (2 a 3 frases, un solo siguiente paso) y se elimina la acción de seguimiento a los 15 minutos |
+| Dato "no hay consulta a domicilio" | Confirmado por gerencia: Dover no ofrece consulta veterinaria a domicilio; solo la Tienda de Mascotas entrega productos |
+| Transferencia silenciosa | **Causa hallada:** faltaba el mensaje opcional de la acción de transferir a un usuario. Se creó la acción con aviso al cliente (canal de la asesora, horario y "te contactará cuando inicie su jornada"). Corrige la hipótesis de que era un comportamiento nativo |
+| No cierra la cita | Pauta de cierre: ante un "sí", envía un enlace de WhatsApp con el texto precargado (servicio y mascota reales). Límite: el cliente debe enviar el mensaje; el agente no agenda ni confirma disponibilidad y no recoge datos personales |
+
+Dato obsoleto detectado: una línea de Chicó que ya no pertenece a Dover; la vigente es la de la Tienda de Mascotas de Chicó. Solo persistía en la base de conocimiento interna del call center, por corregir.
+
+Riesgos: tras transferir, el agente queda fuera de la conversación hasta que se marque resuelta (confirmar con prueba real); verificar que la asesora reciba la notificación; las respuestas cortas pueden perder detalle; el agente gasta créditos aun cuando decide no responder un agradecimiento.
+
 ## KPIs del piloto
 
 | KPI | Meta |
@@ -62,12 +79,12 @@ Una a dos semanas de piloto sin errores graves en urgencias y revisión de conve
 
 ## Pendientes
 
-- Corregir repetición y cierre de cita en la personalidad del agente; validar con la asesora productos, vacantes y domicilio.
-- Aviso automático al transferir el chat; decidir si se restauran las acciones eliminadas ("cliente frustrado", "quiere comprar").
+- Probar en chats reales el aviso de transferencia (pedir hablar con un médico) y la notificación a la asesora; probar el cierre de cita con enlace precargado.
+- Decidir si se restauran las acciones eliminadas ("cliente frustrado", "quiere comprar").
 - Pagar el paquete de créditos autorizado y decidir sobre el bot "Urgencias sin asesora" (podría bloquear al agente).
 - Decisión legal de gerencia sobre la autorización de datos (hoy la pide el agente al tomar datos para una cita).
 - Seguir cargando respuestas validadas del call center (lote 1 del 19/11 y siguientes).
-- Revisión semanal fija; la siguiente, el viernes 27/11.
+- Revisión semanal fija; la siguiente, el viernes 27/11 (incluye créditos).
 
 ## Fuente
 

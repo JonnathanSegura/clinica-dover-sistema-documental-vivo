@@ -35,6 +35,11 @@ Todo trabajo nuevo (documentos, campañas, contenido, flujos de CRM, bots, propu
 
 Se documenta aquí para que cualquier colaborador o asistente de IA que use este repositorio como base de conocimiento entienda de inmediato el alcance vigente, sin inferirlo de fuentes dispersas. La limpieza de referencias antiguas en el sitio y las redes se hace por tandas, con verificación en escritorio y móvil.
 
+## Ajustes del 25/11/2026
+
+- Chicó: horario de la clínica de lunes a sábado, 7:00 a. m. a 7:00 p. m. (confirmado).
+- Visitas a hospitalizados en Santa Bárbara según el tríptico "Guía para Tutores": 15 minutos, un tutor por franja con turno asignado, con horarios distintos para caninos, felinos y UCI, y horario especial de domingos y festivos.
+- Urgencias: dirección de Santa Bárbara; en el turno de la asesora se dirige a su línea y fuera de turno a la recepción de Santa Bárbara, que atiende todo el día. Los demás temas fuera de turno no se remiten a recepción.
 ## Fuente
 
 Instrucciones operativas del responsable del proyecto (03/08/2026 y 27–29/10/2026). El detalle histórico de las sedes está en `docs/historico/Clinica_Dover_Sistema_Documental_Vivo_Historico_2026.md`, sección 19.2 (con fines de contexto, no como guía de uso vigente).

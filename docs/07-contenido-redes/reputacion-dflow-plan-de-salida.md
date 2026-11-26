@@ -70,6 +70,13 @@ La gestión de reseñas de Google se apoya en una herramienta de IA de terceros 
 | Calificación promedio | 4,6 |
 | Publicaciones en la ficha | 1 por semana por sede |
 
+## Auditoría del 25/11/2026
+
+- Reseñas nuevas atendidas por las tres reglas automáticas; tasas de respuesta de 96,8 % (Santa Bárbara) y 99,1 % (Chicó), sobre la meta de 90 %.
+- Ritmo de reseñas nuevas muy por debajo de la meta (4 y 1 en 30 días); publicaciones de Google detenidas desde el 29/10.
+- Backlog de 51 sin responder, casi todo de 2018 a 2023; las negativas antiguas no se reviven y las 5 estrellas antiguas de Facebook se responden a mano.
+- Dos borradores esperan aprobación (verificar en Google antes de aprobar para no duplicar) y un caso sigue en gerencia y jurídico.
+- Quedan cinco semanas para exportar los Insights y replicar el flujo.
 ## Fuente
 
 Manual de la plataforma y auditorías semanales del 18 y 20/11/2026 del Sistema Documental Vivo. Los nombres de autores de reseñas se omiten en este repositorio público.

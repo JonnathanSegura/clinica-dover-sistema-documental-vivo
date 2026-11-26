@@ -2465,6 +2465,38 @@ La lista vigente está en `docs/11-bitacora/pendientes-actuales.md` (corte
 
 ------------------------------------------------------------------------
 
+## 32. ACTUALIZACIÓN --- 24 al 26 de noviembre de 2026
+
+> **Cómo leer esta sección:** continúa la sección 31 sin reescribirla. Las
+> cifras publicitarias detalladas se mantienen en los informes internos.
+> El detalle por frente está en `docs/`.
+
+### 32.1 Resumen ejecutivo
+
+Tres días con un giro: **el costo de los créditos de IA llevó a apagar el
+agente de Kommo en redes y a reemplazarlo por un bot corregido con lo
+aprendido del entrenamiento**; **la medición de pacientes avanzó** porque el
+cruce del call center con Kommo volvió a funcionar; y **la pauta se
+reordenó** (más presupuesto a Urgencias de Google, fin del crédito
+promocional y una promoción de dos días en Meta para las Tiendas de Mascotas).
+
+### 32.2 CRM y agentes de IA
+- **24/11 — cruce call center → Kommo:** la hoja de control leía la pestaña de octubre; ahora elige sola la del mes. El cruce nocturno aplicó cambios de etapa de noviembre (ganados, citas agendadas y perdidos) y una muestra de 11 leads coincidió con la hoja. Falla conocida: puede cargar una venta de otro canal a un lead con etiqueta de Google del mismo teléfono; la corrección requiere autorización.
+- **24/11 — auditoría cruzada de reglas** del agente de la Tienda de Mascotas y el de Kommo: en Kommo falta una pauta de quejas; en la Tienda, falta no responder a "ok" o emojis, reglas de proveedores y no prometer gestiones. Se encontró horario viejo en dos fuentes de conocimiento de Kommo.
+- **24/11 — revisión del agente de la Tienda de Mascotas (18–24/11, 61 conversaciones):** sin datos inventados ni dosis; mediana de primera respuesta humana en horario de 16 minutos, pero dos traspasos sin respuesta humana, tres del domingo con espera de 16 a 25 horas y saludo automático con horario viejo.
+- **25/11 — créditos de IA:** por el congelamiento del pago se desactiva el agente de Kommo y responde el bot v3 (copia corregida) en Instagram y Facebook; el v2 queda de respaldo. Se cargó al bot un submenú de preguntas con nueve respuestas tomadas del entrenamiento del agente, cierre con "¿te ayudo con algo más?" y los horarios de visita del tríptico. El bot solo entiende botones, no texto libre.
+- **25/11 — urgencias:** se fija la regla de canalización por turno (asesora en turno; recepción de Santa Bárbara fuera de turno) y se cargó al agente y al bot.
+- **26/11 — asistente con la API de Claude:** prototipo de 20 preguntas con dos modelos; el modelo mayor cumplió las reglas en las 20 y el menor falló alrededor de tres. Costo calculado muy inferior al del agente de Kommo; falta medirlo con una clave de prueba y verificar cómo llamaría Kommo a un servicio externo.
+- **HubSpot:** demo con el proveedor el 3/12; Kommo está pagado por un año.
+
+### 32.3 Pauta y reputación
+- **Google Ads:** el presupuesto diario de Urgencias subió dentro del tope tras el cruce con leads etiquetados (costo por lead etiquetado claramente inferior al costo por conversión de la plataforma); Demand Gen no generó ningún lead etiquetado en Kommo y se pausa el 26/11 al terminar el crédito promocional. Seguimos sin citas marcadas por el call center para medir costo por paciente.
+- **Meta Ads:** se pausa la campaña de seguidores y se programa una promoción de dos días (27 y 28/11) con descuento en una marca de alimento de las Tiendas de Mascotas, con destino a los WhatsApp de cada tienda (que no están en Kommo). Riesgos: revisión de Meta, video más largo de lo recomendado y facturación sin leer.
+- **Reputación (25/11):** reseñas nuevas atendidas por las reglas automáticas; el ritmo de reseñas nuevas está muy por debajo de la meta; las publicaciones de Google llevan cuatro semanas detenidas; quedan cinco semanas para salir de la herramienta.
+
+### 32.4 Pendientes nuevos
+Decidir el disparador del bot v3 por horario, probar los flujos con chats reales, definir quién atiende los traspasos de domingo en la Tienda de Mascotas, corregir el cruce nocturno, medir el costo real del asistente con Claude y decidir con gerencia entre créditos de IA, asistente propio o cambio de CRM.
+
 ## Nota final de integridad documental
 
 Este documento diferencia deliberadamente entre **propuesta, decisión,

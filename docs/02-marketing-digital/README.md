@@ -6,7 +6,7 @@
 - [`meta-ads-pet-center.md`](./meta-ads-pet-center.md) — Pet Center, Rappi, Semana del Perro, decisión de presupuesto, hallazgo de fuga conversación→lead.
 - [`google-ads-sep-nov-2026.md`](./google-ads-sep-nov-2026.md) — decisiones de septiembre a noviembre, campaña de Urgencias v2 y la brecha de medición de conversiones.
 - [`meta-ads-reconocimiento-2026.md`](./meta-ads-reconocimiento-2026.md) — campaña de Reconocimiento (Santa Bárbara y Chicó): diseño, resultados y criterios de decisión.
-- [`pauta-noviembre-2026-seguimiento.md`](./pauta-noviembre-2026-seguimiento.md) — Google Ads y Meta del 10 al 23/11: decisiones, hallazgos, reglas de corte y pendientes.
+- [`pauta-noviembre-2026-seguimiento.md`](./pauta-noviembre-2026-seguimiento.md) — Google Ads y Meta del 10 al 26/11: decisiones, hallazgos, reglas de corte y pendientes.
 - [`canal-didi-comercio-electronico.md`](./canal-didi-comercio-electronico.md) — canal de comercio electrónico de terceros: vía manual y estado del catálogo.
 
 ## Nota metodológica

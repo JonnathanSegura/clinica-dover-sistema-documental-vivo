@@ -4,8 +4,8 @@ Sistema documental vivo del proyecto profesional **Clínica Dover**, bajo el rol
 
 Este repositorio funciona como la **fuente documental versionada** de captación, conversión, trazabilidad comercial, CRM, IA aplicada y transformación digital de la clínica — no como un depósito de archivos.
 
-**Última actualización:** 23 de noviembre de 2026 (reorganización previa: 15 de agosto de 2026).
-**Periodo documentado:** desde mayo de 2026 (kickoff del proyecto). El histórico maestro llega hasta el 23 de noviembre (secciones 1–29 con corte al 15 de agosto y secciones 30 y 31 de actualización).
+**Última actualización:** 26 de noviembre de 2026 (reorganización previa: 15 de agosto de 2026).
+**Periodo documentado:** desde mayo de 2026 (kickoff del proyecto). El histórico maestro llega hasta el 26 de noviembre (secciones 1–29 con corte al 15 de agosto y secciones 30, 31 y 32 de actualización).
 
 ## Cómo navegar este repositorio
 

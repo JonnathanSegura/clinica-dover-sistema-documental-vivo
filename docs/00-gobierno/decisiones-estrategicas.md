@@ -33,6 +33,13 @@
 | 29 | Pausar la campaña de Meta "Leads Valoración" y lanzar una de seguidores con tope bajo | Costo alto y ninguna cita tras tres días | Se decide por citas agendadas, no por conversaciones | Aplicada 20/11/2026 |
 | 30 | No usar filtros por calificación en reseñas y planificar la salida de la herramienta de reputación antes de fin de diciembre | Google prohíbe el filtrado; el contrato termina | Ver `docs/07-contenido-redes/reputacion-dflow-plan-de-salida.md` | Vigente desde 20/11/2026 |
 | 31 | Canal DiDi por vía manual con la tienda de Santa Bárbara y catálogo propio | No se justifica integrar por API antes de validar demanda | Catálogo con 98,6 % de imágenes | En ejecución (19/11/2026) |
+| 32 | Cruce automático del call center con Kommo: la hoja de control lee sola la pestaña del mes y el script nocturno aplica cambios de etapa | La hoja seguía leyendo octubre y el cruce no movía nada desde el 4/11 | Cruce aplicado en modo "aplicar"; un lead ganado nunca retrocede a perdido | Aplicada 24/11/2026 |
+| 33 | Urgencias de Google Search sube de presupuesto diario dentro del tope; Demand Gen termina con el crédito promocional, sin dinero propio | Leads etiquetados reales a bajo costo y pérdida de impresiones por presupuesto | Cambio aplicado y documentado; Demand Gen se pausa el 26/11 | Aplicada 24–26/11/2026 |
+| 34 | Canalización de urgencias: en el turno de la asesora se dirige a su línea; fuera de turno, a la recepción de Santa Bárbara (atención todo el día). Solo aplica a urgencias | No perder clientes con urgencias fuera del horario del call center | Pautas del agente, bot y piezas públicas de urgencias | Vigente desde 25/11/2026 |
+| 35 | Horarios de visita a hospitalizados según el tríptico "Guía para Tutores" y horario de la clínica de Chicó confirmado | Reemplaza el horario anterior de visitas | Bot y agente actualizados; base de conocimiento al día | Vigente desde 25/11/2026 |
+| 36 | Congelar el pago de créditos de IA: se desactiva el agente en Instagram y Facebook y responde el bot v3 (copia corregida) mientras se aprueban créditos | Decisión de dirección administrativa sobre el gasto en créditos | Agente apagado y bot v3 activo en Instagram y Facebook (no WhatsApp); el agente sigue entrenándose | Aplicada 25/11/2026 |
+| 37 | Evaluar un asistente con la API de Claude como alternativa a los créditos del agente y comparar con HubSpot (demo con el proveedor el 3/12) | Costo por respuesta y control de las reglas | Prototipo de 20 preguntas; falta medir costo real con una clave de prueba; decide gerencia | En evaluación (26/11/2026) |
+| 38 | Pausar la campaña de seguidores de Meta y lanzar una promoción de dos días (27 y 28/11) con destino a los WhatsApp de las Tiendas de Mascotas | Liberar presupuesto del tope mensual para una oferta medible | Campaña programada; medición por texto precargado | Aplicada 26/11/2026 |
 
 ## Nota sobre nombres
 
@@ -40,4 +47,4 @@ Los nombres del equipo comercial se anonimizan en este repositorio público (ver
 
 ## Fuente
 
-`docs/historico/Clinica_Dover_Sistema_Documental_Vivo_Historico_2026.md`, sección 27 (decisiones 1–8) y registros de ejecución de octubre–noviembre de 2026 (decisiones 9–31; las 20 a 31 corresponden al 13–20/11/2026).
+`docs/historico/Clinica_Dover_Sistema_Documental_Vivo_Historico_2026.md`, sección 27 (decisiones 1–8) y registros de ejecución de octubre–noviembre de 2026 (decisiones 9–38; las 20 a 31 corresponden al 13–20/11/2026 y las 32 a 38 al 24–26/11/2026).

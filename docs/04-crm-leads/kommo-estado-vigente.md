@@ -53,6 +53,12 @@ La documentación inicial de mayo de 2026 (ver `docs/historico/2026-05-kickoff/0
 
 **Pendientes nuevos:** definir quién revisa los chats escalados al abrir turno, unificar bots que puedan bloquear al agente y consolidar el diligenciamiento directo del call center.
 
+## Actualización 24–26/11/2026
+
+- El cruce automático del call center con Kommo quedó funcionando el 24/11 (pestaña del mes automática; modo aplicar a las 22:00) y actualizó etapas de noviembre. Un lead ganado nunca retrocede a perdido. Falla conocida: puede cargar una venta de otro canal a un lead con etiqueta de Google del mismo teléfono.
+- Desde el 25/11 el bot v3 responde Instagram y Facebook mientras el agente está desactivado (ver `docs/05-ia-automatizacion/agente-ia-kommo-redes-sociales.md`).
+- Las líneas de las Tiendas de Mascotas son WhatsApp Business app y no están en Kommo; no mezclar la línea de recordatorios de QVET con Kommo.
+- Evaluación de HubSpot con el proveedor: demo el 3/12; Kommo está pagado por un año.
 ## Fuente
 
 Auditoría de Kommo (13/10/2026), informe de funcionamiento (26/10/2026), registros de ejecución del 16 al 29/10 y decisión del 9/11/2026, del Sistema Documental Vivo; para lo anterior, `docs/historico/Clinica_Dover_Sistema_Documental_Vivo_Historico_2026.md`, secciones 2.4 y 7.

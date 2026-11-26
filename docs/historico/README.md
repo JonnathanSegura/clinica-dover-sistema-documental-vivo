@@ -2,7 +2,7 @@
 
 ## `Clinica_Dover_Sistema_Documental_Vivo_Historico_2026.md`
 
-Este es el **documento de memoria histórica consolidada principal** del proyecto Clínica Dover — Sistema Documental Vivo, con corte al **15 de agosto de 2026** (secciones 1–29); las secciones 30 y 31 resumen lo ocurrido hasta el 9 y el 23 de noviembre de 2026. Reconstruye la evolución completa: rol, dirección y estrategia, marketing digital, CRM (Kommo), IA (HUBU), QVET, SEO/WordPress, contenido, KPIs, decisiones estratégicas, pendientes y aprendizajes.
+Este es el **documento de memoria histórica consolidada principal** del proyecto Clínica Dover — Sistema Documental Vivo, con corte al **15 de agosto de 2026** (secciones 1–29); las secciones 30, 31 y 32 resumen lo ocurrido hasta el 9, el 23 y el 26 de noviembre de 2026. Reconstruye la evolución completa: rol, dirección y estrategia, marketing digital, CRM (Kommo), IA (HUBU), QVET, SEO/WordPress, contenido, KPIs, decisiones estratégicas, pendientes y aprendizajes.
 
 **Úsalo como punto de partida** para entender el proyecto, y como referencia cruzada cuando un documento específico (`docs/04-crm-leads/`, `docs/06-qvet/`, etc.) no tenga el detalle que buscas.
 

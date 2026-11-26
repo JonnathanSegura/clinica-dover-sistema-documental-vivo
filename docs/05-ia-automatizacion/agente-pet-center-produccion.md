@@ -122,6 +122,12 @@ Hallazgos nuevos:
 
 Metas de la siguiente revisión: 0 datos inventados, 0 dosis, citas bien orientadas al 100 %, primera respuesta humana en horario por debajo de 30 minutos.
 
+## Seguimiento 18–24/11/2026
+
+- 61 conversaciones: sin datos inventados ni dosis; mediana de primera respuesta humana en horario de 16 minutos, con siete casos sobre 30 minutos.
+- Problemas de operación humana: dos traspasos sin respuesta, tres del domingo con espera de 16 a 25 horas y un reclamo tratado como pregunta.
+- Texto del agente por corregir: promesas de gestiones que no controla, afirmación de atención 24/7 de las asesoras, saludo automático de WhatsApp con horario viejo y lista de números excluidos vacía.
+- Cruce con el agente de Kommo (24/11): llevar a la Tienda la regla de no responder a "ok" o emojis y la de proveedores; llevar a Kommo la pauta de quejas.
 ## Fuente
 
 Informe de funcionamiento del agente (9/11/2026) e informe de ejecución de ajustes (9/11/2026), del Sistema Documental Vivo.

@@ -56,6 +56,12 @@ Continúa `google-ads-sep-nov-2026.md` y `meta-ads-reconocimiento-2026.md`. Las 
 - Decidir con gerencia el reparto de lo que queda del tope hasta el 30/11 y si se rediseña la oferta de Valoración.
 - Reexportar el video de Reconocimiento con "71 años" si se vuelve a usar.
 
+## Actualización 24–26/11/2026
+
+- **Google Ads:** cruce con Kommo del 24/11: los leads etiquetados de Urgencias cuestan mucho menos que la "conversión" de la plataforma, y Demand Gen no tiene ningún lead etiquetado. Se subió el presupuesto diario de Urgencias dentro del tope y Demand Gen se pausa el 26/11 con el fin del crédito promocional. Sigue sin haber citas marcadas por el call center para calcular costo por paciente.
+- **Meta Ads:** se pausó la campaña de seguidores y se programó "Gabrica 15 %" para las Tiendas de Mascotas (27 y 28/11), con dos conjuntos (uno por tienda) que abren chat en el WhatsApp de cada tienda y mensaje precargado que identifica la tienda. Medición por ese texto; informe el 29/11.
+- **Reglas aprendidas:** no usar la línea de QVET en anuncios (Meta la reasignó al conectar otra línea); verificar la configuración completa después de conectar un número; el destino a la página puente de la tienda ya se probó y no funcionó.
+- **Pendientes:** aprobación de los anuncios por Meta, facturación de Meta sin leer (pide reautenticación) y cierre del gasto del mes el 30/11.
 ## Fuente
 
 Informes y ejecuciones de Google Ads y Meta del 10 al 20/11/2026 del Sistema Documental Vivo (informes de rendimiento, revisiones del día 10 y de Demand Gen, informe de gasto propio del 20/11).

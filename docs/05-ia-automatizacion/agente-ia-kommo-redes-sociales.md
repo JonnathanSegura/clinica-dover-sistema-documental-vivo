@@ -86,6 +86,14 @@ Una a dos semanas de piloto sin errores graves en urgencias y revisión de conve
 - Seguir cargando respuestas validadas del call center (lote 1 del 19/11 y siguientes).
 - Revisión semanal fija; la siguiente, el viernes 27/11 (incluye créditos).
 
+## Actualización 24–26/11/2026: agente apagado y bot v3
+
+- **25/11:** por el congelamiento del pago de créditos (decisión de dirección administrativa) el agente se desactivó y el "Bot comercial v3 (copia corregida)" responde los mensajes directos de Instagram y Facebook (no WhatsApp). El v2 queda intacto de respaldo; un bot en la conversación bloquea al agente, por eso al aprobar créditos se apaga el v3 y se reactiva el agente.
+- **Contenido del v3:** horario nuevo de la asesora, "Tienda de Mascotas" en vez de nombres antiguos, regla de urgencias por turno, horarios de visita a hospitalizados y un submenú de preguntas (citas y visita, pagos y precios, exámenes y cirugía) con respuestas tomadas del entrenamiento del agente y de las respuestas validadas del call center. Respeta los límites de Meta. Límite: solo entiende botones, no texto libre.
+- **Auditoría cruzada 24/11:** el agente de Kommo carece de pauta de quejas; en Kommo quedaban dos fuentes con horario viejo; criterio único de "nuestra asesora" frente a "asesora humana" pendiente.
+- **Regla de urgencias:** en el turno de la asesora se dirige a su línea; fuera de turno, a la recepción de Santa Bárbara (atención todo el día). Aplica solo a urgencias.
+- **Alternativa en evaluación (26/11):** asistente con la API de Claude. En 20 preguntas de la batería, el modelo mayor cumplió todas las reglas y el menor tuvo fallas menores; el costo calculado es muy inferior al del agente actual, pero no está medido y falta verificar la llamada externa desde Kommo, el silencio cuando atiende la asesora y la autorización de gerencia por el uso de datos.
+- **Pendiente:** disparador del v3 por horario, prueba con chats reales y primer día de lanzamientos como KPI.
 ## Fuente
 
 Registros de ejecución de Kommo (cargas 1 a 10), hallazgos y decisiones del 17 al 20/11/2026, y revisión del piloto del 20 al 23/11/2026, del Sistema Documental Vivo.

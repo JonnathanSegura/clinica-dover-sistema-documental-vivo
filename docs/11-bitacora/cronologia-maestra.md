@@ -64,7 +64,16 @@ Reconstrucción de hitos desde el inicio del proyecto. No es transcripción de c
 | 23 nov 2026 | IA | Carga 11 al agente de Kommo: aviso al transferir, respuestas cortas, canal de RR. HH. y cierre de cita con enlace precargado | Corrige las fallas de la primera revisión; falta probar en chats reales | Aplicado |
 | 23 nov 2026 | Contenido | Referencia de estilo "revista" y propuesta de la publicación "Casa Segura" (5 peligros de intoxicación) | En ideación; ver `docs/07-contenido-redes/propuesta-publicacion-estilo-revista.md` | Propuesto |
 | 23 nov 2026 | IA | Primera revisión semanal del agente de IA en Instagram y Facebook | Funciona en lo básico; fallas de repetición y cierre de cita | Revisión completada |
+| 24 nov 2026 | CRM | Cruce automático call center → Kommo corregido (pestaña del mes automática) y aplicado a noviembre | Etapas de leads actualizadas; falla conocida: puede cargar una venta de otro canal a un lead con etiqueta de Google del mismo teléfono | Aplicado |
+| 24 nov 2026 | IA | Revisión semanal del agente de la Tienda de Mascotas y auditoría cruzada de reglas con el agente de Kommo | Agente estable y sin inventar; el problema está en traspasos sin respuesta humana, saludo con horario viejo y reclamos | Revisión completada |
+| 24 nov 2026 | Google Ads | Presupuesto de Urgencias sube dentro del tope tras cruzar con leads etiquetados; Demand Gen termina con el crédito | Cruce Google–Kommo sin citas marcadas | Aplicado |
+| 25 nov 2026 | Operación | Tríptico de hospitalización: nuevos horarios de visita; horario de Chicó y recepción confirmados; regla de urgencias por turno | Agente, bot y base de conocimiento ajustados | Aplicado |
+| 25 nov 2026 | IA | Se apaga el agente de IA de Kommo por congelamiento de créditos; el bot v3 responde Instagram y Facebook con flujos tomados del entrenamiento del agente | Falta probar en chats reales y decidir el disparador por horario | Aplicado |
+| 25 nov 2026 | Reputación | Auditoría semanal de la herramienta de reseñas | Reseñas nuevas atendidas; backlog antiguo sin tocar; publicaciones de Google detenidas | Completado |
+| 26 nov 2026 | Meta Ads | Pausa de seguidores y campaña de 15 % en Gabrica para las Tiendas de Mascotas (27 y 28/11) | En revisión de Meta; medición por texto precargado | Programado |
+| 26 nov 2026 | IA | Prototipo de asistente con Claude (API) con 20 preguntas y comparación de costo con el agente de Kommo | Costo calculado, no medido; decide gerencia | En evaluación |
+| 26 nov 2026 | CRM | Demo de HubSpot con el proveedor fijada para el 3/12 | Kommo está pagado por un año | Agendada |
 
 ## Fuente
 
-`docs/historico/Clinica_Dover_Sistema_Documental_Vivo_Historico_2026.md` (secciones 1–29 hasta el 15/08/2026; sección 30 hasta el 9/11/2026 y sección 31 hasta el 23/11/2026) y registros de ejecución, informes y revisiones del Sistema Documental Vivo (15/08–23/11/2026).
+`docs/historico/Clinica_Dover_Sistema_Documental_Vivo_Historico_2026.md` (secciones 1–29 hasta el 15/08/2026; sección 30 hasta el 9/11/2026, sección 31 hasta el 23/11/2026 y sección 32 hasta el 26/11/2026) y registros de ejecución, informes y revisiones del Sistema Documental Vivo (15/08–26/11/2026).
